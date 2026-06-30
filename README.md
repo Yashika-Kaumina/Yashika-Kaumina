@@ -43,7 +43,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Yashika-Kaumina&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika-Kaumina&layout=compact&theme=radical)
+![Top Languages](https://img.shields.io/github/languages/top/Yashika-Kaumina/Yashi.github.io?color=ff6b6b&style=for-the-badge)
 
 ---
 
