@@ -41,6 +41,8 @@
 
 ![Yashika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashika-Kaumina&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yashika-Kaumina&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika-Kaumina&layout=compact&theme=radical)
 
 ---
