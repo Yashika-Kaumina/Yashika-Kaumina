@@ -28,10 +28,10 @@
 
 ## 📂 My Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Student Management System**](https://github.com/Yashika-Kaumina/php-student-management-system) | Multilingual system with CRUD, Dashboard, PDF export | PHP, MySQL, Chart.js |
-| [**Chess Swiss Tournament System**](https://github.com/Yashika-Kaumina/chess-swiss-system) | Backtracking engine for chess pairings | Python, Tkinter |
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| [**Student Management System**](https://github.com/Yashika-Kaumina/php-student-management-system) | Multilingual system with CRUD, Dashboard, PDF export | PHP, MySQL, Chart.js | - |
+| [**Chess Swiss Tournament System**](https://github.com/Yashika-Kaumina/chess-swiss-system) | Backtracking engine for chess pairings | Python, Tkinter | - |
 | [**Interactive Portfolio Mockup**](https://github.com/Yashika-Kaumina/Yashi.github.io) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/Yashi.github.io/) |
 
 ---
