@@ -35,6 +35,7 @@
 | [**Hobby Project**](https://github.com/Yashika-Kaumina/Yashi.github.io) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/Yashi.github.io/) |
 | [**Sihinaya (සිහිනය)**](https://github.com/Yashika-Kaumina/sihinaya) | A poetic Sinhala hobby project with floating hearts | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/sihinaya/) |
 | [**Interactive Portfolio Mockup**](https://github.com/Yashika-Kaumina/portfolio) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/my-portfolio/#portfolio/) |
+| [**Practice Portfolio**](https://yashika-kaumina.github.io/my-portfolio-practice/) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/my-portfolio-practice/) |
 
 ---
 
