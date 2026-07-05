@@ -28,14 +28,15 @@
 
 ## 📂 My Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| [**Student Management System**](https://github.com/Yashika-Kaumina/php-student-management-system) | Multilingual system with CRUD, Dashboard, PDF export | PHP, MySQL, Chart.js | - |
-| [**Chess Swiss Tournament System**](https://github.com/Yashika-Kaumina/chess-swiss-system) | Backtracking engine for chess pairings | Python, Tkinter | - |
-| [**Hobby Project**](https://github.com/Yashika-Kaumina/Yashi.github.io) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/Yashi.github.io/) |
-| [**Sihinaya (සිහිනය)**](https://github.com/Yashika-Kaumina/sihinaya) | A poetic Sinhala hobby project with floating hearts | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/sihinaya/) |
-| [**Interactive Portfolio Mockup**](https://github.com/Yashika-Kaumina/portfolio) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/my-portfolio/#portfolio/) |
-| [**Practice Portfolio**](https://yashika-kaumina.github.io/my-portfolio-practice/) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/my-portfolio-practice/) |
+| # | Project | Description | Tech Stack | Live Demo |
+|---|---------|-------------|------------|-----------|
+| 1 | [**Student Management System**](https://github.com/Yashika-Kaumina/php-student-management-system) | Multilingual system with CRUD, Dashboard, PDF export | PHP, MySQL, Chart.js | - |
+| 2 | [**Chess Swiss Tournament System**](https://github.com/Yashika-Kaumina/chess-swiss-system) | Backtracking engine for chess pairings | Python, Tkinter | - |
+| 3 || [**Hobby Project**](https://github.com/Yashika-Kaumina/Yashi.github.io) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/Yashi.github.io/) |
+| 4 | [**Sihinaya (සිහිනය)**](https://github.com/Yashika-Kaumina/sihinaya) | A poetic Sinhala hobby project with floating hearts | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/sihinaya/) |
+| 5 | [**Interactive Portfolio Mockup**](https://github.com/Yashika-Kaumina/portfolio) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/my-portfolio/#portfolio/) |
+| 6 | [**Practice Portfolio**](https://yashika-kaumina.github.io/my-portfolio-practice/) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/my-portfolio-practice/) |
+| 7 | [**Library Management System**](https://github.com/Yashika-Kaumina/Library-Management-System) | Complete Library Management System with CRUD & Fine Calculation |  Java, Swing, MySQL, JDBC | - |
 
 ---
 
