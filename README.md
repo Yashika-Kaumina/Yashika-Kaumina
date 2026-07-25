@@ -37,6 +37,7 @@
 | 5 | [**Interactive Portfolio Mockup**](https://github.com/Yashika-Kaumina/portfolio) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/my-portfolio/#portfolio/) |
 | 6 | [**Practice Portfolio**](https://yashika-kaumina.github.io/my-portfolio-practice/) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/my-portfolio-practice/) |
 | 7 | [**Library Management System**](https://github.com/Yashika-Kaumina/Library-Management-System) | Complete Library Management System with CRUD & Fine Calculation |  Java, Swing, MySQL, JDBC | - |
+| 8 | [**MyTechBlog**](https://github.com/Yashika-Kaumina/my-tech-blog) | Modern, responsive tech blog with Next.js & Tailwind CSS |  Next.js, TypeScript, Tailwind CSS | [Live Demo](https://my-tech-blog-qqjil6bub-yashika-kauminas-projects.vercel.app) |
 
 ---
 
