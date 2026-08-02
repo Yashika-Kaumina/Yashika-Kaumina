@@ -1,0 +1,32 @@
+# Dependabot Configuration for MyTechBlog
+
+version: 2
+updates:
+  # NPM / Node.js Dependencies
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Asia/Colombo"
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: "chore(deps):"
+      prefix-development: "chore(deps-dev):"
+    labels:
+      - "dependencies"
+      - "automerge"
+    versioning-strategy: "auto"
+    allow:
+      - dependency-type: "production"
+      - dependency-type: "development"
+
+  # GitHub Actions Dependencies
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Asia/Colombo"
