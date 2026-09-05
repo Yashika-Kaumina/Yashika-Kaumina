@@ -30,7 +30,7 @@
 
 | # | Project | Description | Tech Stack | Live Demo |
 |---|---------|-------------|------------|-----------|
-| 1 | [**Student Management System**](https://github.com/Yashika-Kaumina/php-student-management-system) | Multilingual system with CRUD, Dashboard, PDF export | PHP, MySQL, Chart.js | - |
+| 1 | [**Student Management System**](https://github.com/Yashika-Kaumina/php-student-management-system) | Multilingual system with CRUD, Dashboard, PDF export | PHP, MySQL, Chart.js | [**Live Demo**](http://studentms2026.atwebpages.com/) |
 | 2 | [**Chess Swiss Tournament System**](https://github.com/Yashika-Kaumina/chess-swiss-system) | Backtracking engine for chess pairings | Python, Tkinter | - |
 | 3 | [**Hobby Project**](https://github.com/Yashika-Kaumina/Yashi.github.io) | Pure HTML/CSS/JS website with dynamic features | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/Yashi.github.io/) |
 | 4 | [**Sihinaya (සිහිනය)**](https://github.com/Yashika-Kaumina/sihinaya) | A poetic Sinhala hobby project with floating hearts | HTML, CSS, JavaScript | [**Live Demo**](https://yashika-kaumina.github.io/sihinaya/) |
